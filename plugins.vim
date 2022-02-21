@@ -7,6 +7,7 @@ Plug 'tomasiser/vim-code-dark'
 " LSP
 Plug 'neovim/nvim-lspconfig'
 Plug 'jose-elias-alvarez/null-ls.nvim'
+Plug 'numToStr/Comment.nvim'
 
 " Auto Completion
 Plug 'hrsh7th/cmp-nvim-lsp'
