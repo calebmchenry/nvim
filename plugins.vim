@@ -1,8 +1,12 @@
 
+" PlugInstall
+" PlugUpdate
+
 call plug#begin()
 
 " Theme
 Plug 'tomasiser/vim-code-dark'
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 " LSP
 Plug 'neovim/nvim-lspconfig'

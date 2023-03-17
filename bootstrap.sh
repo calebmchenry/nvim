@@ -7,3 +7,4 @@ ln -sf $(pwd)/lsp.vim ~/.config/nvim/lsp.vim
 ln -sf $(pwd)/search.vim ~/.config/nvim/search.vim
 ln -sf $(pwd)/format.vim ~/.config/nvim/format.vim
 ln -sf $(pwd)/comments.vim ~/.config/nvim/comments.vim
+ln -sf $(pwd)/syntax.vim ~/.config/nvim/syntax.vim

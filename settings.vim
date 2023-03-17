@@ -11,3 +11,4 @@ set noexpandtab
 set number relativenumber
 set hidden
 set splitbelow splitright
+set cursorline

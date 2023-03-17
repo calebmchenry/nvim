@@ -5,3 +5,11 @@ nnoremap <leader>s <cmd>Telescope lsp_document_symbols<cr>
 nnoremap <leader>d <cmd>Telescope diagnostics<cr>
 nnoremap <leader>gd <cmd>Telescope lsp_definitions<cr>
 
+lua << EOF
+require('telescope').setup{
+	defaults = {
+		path_display={"smart"} 
+	}
+}
+EOF
+

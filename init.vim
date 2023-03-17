@@ -7,3 +7,4 @@ source $HOME/.config/nvim/lsp.vim
 source $HOME/.config/nvim/search.vim
 source $HOME/.config/nvim/format.vim
 source $HOME/.config/nvim/comments.vim
+source $HOME/.config/nvim/syntax.vim
